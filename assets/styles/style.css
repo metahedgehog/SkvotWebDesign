@@ -1,0 +1,45 @@
+body {
+    margin: 0 20;
+    text-align: left;
+    background: #E3E2E2;
+    color: #262424;
+    padding: 20px;
+    
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+p.quote{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+h1{
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200px;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+}
+
+figcaption{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+
+blockquote{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+footer{
+    margin-top: 10px;
+    margin-bottom: 100px;
+    font-size: 20px;
+}
